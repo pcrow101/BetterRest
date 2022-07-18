@@ -11,6 +11,7 @@
 		D696CFFB288550E300716525 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D696CFFA288550E300716525 /* ContentView.swift */; };
 		D696CFFD288550E600716525 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D696CFFC288550E600716525 /* Assets.xcassets */; };
 		D696D000288550E600716525 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D696CFFF288550E600716525 /* Preview Assets.xcassets */; };
+		D696D00D28855F6400716525 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D696D00C28855F6400716525 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D696CFFA288550E300716525 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D696CFFC288550E600716525 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D696CFFF288550E600716525 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D696D00C28855F6400716525 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				D696CFF8288550E300716525 /* BetterRestApp.swift */,
 				D696CFFA288550E300716525 /* ContentView.swift */,
 				D696CFFC288550E600716525 /* Assets.xcassets */,
+				D696D00C28855F6400716525 /* SleepCalculator.mlmodel */,
 				D696CFFE288550E600716525 /* Preview Content */,
 			);
 			path = BetterRest;
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D696D00D28855F6400716525 /* SleepCalculator.mlmodel in Sources */,
 				D696CFFB288550E300716525 /* ContentView.swift in Sources */,
 				D696CFF9288550E300716525 /* BetterRestApp.swift in Sources */,
 			);
